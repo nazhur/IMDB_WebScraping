@@ -45,7 +45,7 @@ To replicate this web scraping project, follow these steps:
 - Customize the script according to your specific requirements or add additional features for a more personalized experience.
 ## Important Note
 
-If  GitHub throws "unable to render the code block" error pleae use nbviewer to view the code.
+If  GitHub throws "unable to render the code block" error please use nbviewer to view the code.
 
 ## link to nbviewer:
 https://nbviewer.org/github/nazhur/IMDB_WebScraping/blob/main/IMDB%20WebScraping%20Project.ipynb
